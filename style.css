@@ -1,0 +1,380 @@
+*{
+
+    box-sizing: border-box;    
+    margin: 0;
+    padding: 0;
+    font-family: 'Work Sans', sans-serif;
+    
+    }
+
+/*------------------------------------------- scetion 1 -----------------------------------------------*/
+
+    .header{
+    
+       
+        background: url(images/banner1.png);
+        position: relative;
+        background-size: cover;
+        background-repeat:no-repeat;
+        width: 100%;
+        height: 100vh;
+        
+    }
+
+    .heading {
+        position: absolute;
+        width: 525px;
+        left: 601px;
+        top: 128px;
+        font-family: 'Work Sans';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 65px;
+        line-height: 76px;
+        text-align: right;
+        color: #151414;
+
+    }
+
+    .text{
+        position: absolute;
+        width: 525px;
+        left: 601px;
+        top: 370px;
+        font-family: 'Work Sans';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 26px;
+        text-align: right;
+        color: #444343;
+    }
+
+    .contact-btn{
+     left: 986px;
+        top: 481px;
+        display: inline;
+        text-decoration: none;
+        color: #fff;
+        border: 1px solid #f44336;;
+        padding: 12px 34px;
+        font-size: 13px;
+        background: #f44336;
+        position: relative;
+        cursor: pointer;
+    }
+/*------------------------------------------- scetion 2 -----------------------------------------------*/
+
+.banner{
+display:flex;
+align-items: center;
+margin: 99px 88px;
+}
+
+
+.text1{
+
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 40px;
+line-height: 42px;
+margin-bottom: 22px;
+margin-left: 80px;
+color: #151414;
+}
+
+.defanation{
+
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 26px;
+margin-bottom: 22px;
+margin-left: 80px;
+color: #444343;
+}
+
+.mark{
+    color: #0ae40a;
+    font-weight: 800;
+    padding-right:10px;
+}
+    
+.lines{
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 20px;
+margin-bottom: 19px;
+margin-left: 80px;
+color: #444343;
+}
+
+/*------------------------------------------- scetion 3 -----------------------------------------------*/
+
+.text2{
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 40px;
+line-height: 47px;
+text-align: center;
+color: #151414;
+}
+
+.planlist{
+margin-top: 23px;
+display: flex;
+flex-direction: row;
+margin-left: 49px;
+}
+
+.plan1{
+padding: 20px;
+}
+.icon1{
+    margin-left: 98px;
+}
+.icon2{
+    margin-left: 92px;
+}
+.icon3{
+    margin-left: 119px;
+}
+.icon4{
+    margin-left: 86px;
+}
+
+.stage1{
+    font-weight: 500;
+    font-size: 25px;
+    line-height: 29px;
+    text-align: center;
+    color: #737272;
+}
+
+.stage2{
+    margin-top: 35px;
+    margin-left: 42px;
+    font-weight: 500;
+    font-size: 25px;
+    line-height: 29px;
+    text-align: center;
+    color: #737272;
+}
+
+.stage3{
+    margin-top: 35px;
+    margin-left: 87.5px;
+    font-weight: 500;
+    font-size: 25px;
+    line-height: 29px;
+    text-align: center;
+    color: #737272;
+}
+
+.stage4{
+    margin-top: 35px;
+    margin-left: 42px;
+    font-weight: 500;
+    font-size: 25px;
+    line-height: 29px;
+    text-align: center;
+    color: #737272;
+}
+
+.web{
+    position: absolute;
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 35px;
+    text-align: center;
+    color: #151414;
+    margin-left: 62px;
+}
+.js{
+    position: absolute;
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 35px;
+    text-align: center;
+    color: #151414;
+    margin-left: 62px;
+}
+.smoke{
+    position: absolute;
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 35px;
+    text-align: center;
+    color: #151414;
+    margin-left: 62px;
+}
+.ecom{
+    position: absolute;
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 35px;
+    text-align: center;
+    color: #151414;
+    margin-left: 62px;
+}
+
+/*------------------------------------------- scetion 4 -----------------------------------------------*/
+
+.blande{
+    padding-left: 65px;
+    padding-top: 30px;
+}
+
+.mix{
+    position: absolute;
+    margin-top: -305px;
+    padding-bottom: 57px;
+    
+}
+.text3{
+    position: absolute;
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 769;
+    font-size: 40px;
+    top: 1895px;
+    left: 137px;
+    line-height: 47px;
+    color: #ffffff;
+}
+
+.call-btn{
+       font-family: 'Work Sans';
+       font-style: normal;
+       font-weight: 600;
+       font-size: 20px;
+       line-height: 23px;
+       text-align: center;
+       color: #F15B22;
+       left: 73px;
+       top: -108px;
+       display: inline;
+       text-decoration: none;
+       border: 1px solid #ffffff;
+       border-radius: 5px;
+       padding: 12px 34px;
+       font-size: 13px;
+       background: #ffffff;
+       position: relative;
+       cursor: pointer;
+   }
+
+/*------------------------------------------- scetion 5 -----------------------------------------------*/
+
+.footer{
+margin-top: 60px;
+border-radius: 2.5px;
+background:#151414;
+}
+.future{
+padding-top: 59px;
+padding-left: 60px;
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 45px;
+color: #F8F8F8;
+}
+.defines{
+    padding-top: 16px;
+    padding-left: 60px;
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    color: #F8F8F8;
+    }
+.email{
+    padding-top: 27px;
+    padding-left: 60px;
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    color: #F8F8F8;
+}
+.phone{
+    padding-top: 8px;
+    padding-left: 60px;
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    color: #F8F8F8;
+}
+.lcons{
+   
+    padding-left: 58px;
+    display: inline;
+    padding-bottom: 56px;
+}
+.lcon2{
+    padding: 9px;
+}
+
+.sub{ 
+position: absolute;
+top: 2295px;
+left: 953px;
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 600;
+font-size: 25px;
+line-height: 29px;
+color: #ffffff;
+}
+#mail-btn{
+    color: white;
+    padding: 14px 47px;
+    background-color: transparent;
+    border: 1px solid white;
+    text-align: left;
+    border-radius: 5px;
+}
+.mail{
+    position: absolute;
+    top: 2343px;
+    left: 953px;   
+}
+.Subscribe{ 
+    position: absolute;
+    top: 2403px;
+    left: 953px;  
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 23px;
+    text-align: center;
+    color: #F15B22;
+    text-decoration: none;
+    border: 1px solid #ffffff;
+    border-radius: 5px;
+    padding: 12px 34px;
+    font-size: 13px;
+    background: #ffffff;
+    cursor: pointer;
+}
+
+/* Thank you */
